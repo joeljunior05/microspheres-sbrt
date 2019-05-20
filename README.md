@@ -13,6 +13,13 @@ Além disso, é preciso compilar a biblioteca MGranul (https://github.com/joelju
 
 O jeito mais fácil para obter todos os requisitos é utilizando o DockerFile que se encontra no repositório de MGranul. Nele  estão contidos todos os requisitos necessários.
 
+Para o treino é utilizado dois arquivos .npy. Esse arquivos não estão na pasta ainda. Para baixar, execute o comando:
+
+```
+./init.sh
+```
+
+
 ## Organização
 
 Ele está dividido em três scripts principais:
